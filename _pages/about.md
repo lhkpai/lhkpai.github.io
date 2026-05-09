@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>欢迎学术交流与合作联系</p>
-    <p>Research interests: AI, Data Intelligence, Computing Systems</p>
-    <p>Location: China</p>
+    <p>研究方向：人工智能、数据智能、计算系统</p>
+    <p>所在地：中国</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

@@ -7,7 +7,7 @@ first_name: LHK
 middle_name:
 last_name: Pai
 contact_note: >
-  欢迎通过邮件联系我进行学术交流、项目合作或学生咨询。
+  欢迎通过 GitHub 与我联系，进行学术交流、项目合作或学生咨询。
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   LHK Pai 的学术主页，聚焦研究工作、项目进展与学术成果。
 footer_text: >
@@ -19,7 +19,7 @@ lang: zh-CN # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://lhkpai.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # personal site (username.github.io) keep empty; project site use /repo-name
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -190,6 +190,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  # sample twitter embed post requires external network access during build
   - _posts/2020-09-28-twitter.md
   - purgecss.config.js
   - README.md
