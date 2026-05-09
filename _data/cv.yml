@@ -7,7 +7,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S. in Physics
+    - title: M.S. in Astrophysics
       institution: Sun Yat-sen University, School of Physics and Astronomy
       year: 2024 — 2027
       description:
@@ -39,8 +39,8 @@
       year: 2024 — present
       description:
         - Combines SKA MID Band 1 21 cm intensity mapping with Planck CMB data to constrain local-type primordial non-Gaussianity
-        - Employs a non-negativity constraint method to recover large-scale modes from small-scale measurements, addressing the foreground contamination challenge in 21 cm cosmology
-        - Forecasts show σ(f_NL) ∼ 2.3 from joint analysis, a factor of ∼2.2 improvement over CMB alone (σ(f_NL) = 5.1), over z=0.35–3 with 25,000 deg² sky coverage
+        - Employs a non-negativity constraint method to recover large-scale modes from small-scale measurements, addressing foreground contamination in 21 cm cosmology
+        - Forecasts show σ(f_NL) ∼ 2.3 from joint analysis, a factor of ∼2.2 improvement over CMB alone, over z=0.35–3 with 25,000 deg² sky coverage
         - Theoretical foundation built on the scale-dependent bias effect of primordial non-Gaussianity on large-scale structure
 
 - title: Undergraduate Research
@@ -50,11 +50,9 @@
       description:
         - Proposed an improved algorithm with spectral clustering for super-node selection and segregated witness for throughput; prototyped in MATLAB and Python
     - title: Camera Noise Processing
-      institution: Jinan University, Elite Engineer Training Program
       description:
         - Modeled noise generation in the imaging pipeline and calibrated dark and additive noise sources
     - title: Taxi Resource Allocation Model
-      institution: Jinan University, Mathematical Modeling Group
       description:
         - Built a subsidy strategy model from 5,000+ spatiotemporal records using AHP and entropy method; implemented in MATLAB
 
