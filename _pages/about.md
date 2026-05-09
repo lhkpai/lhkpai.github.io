@@ -26,7 +26,7 @@ I am seeking a PhD position in cosmology starting Fall 2027, and am also open to
 **Sun Yat-sen University, School of Physics and Astronomy** | M.S. in Physics | Sep 2024 — Jun 2027
 Advisor: Prof. Xin Wang
 
-**Jinan University, School of Intelligent Science and Engineering** | B.S. in Electronic Information Science and Technology | Sep 2015 — Jan 2020
+**Jinan University, School of Intelligent Science and Engineering** | B.S. in Electronic Information Science and Technology
 
 ---
 
