@@ -27,8 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**About Me**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a master's student in cosmology at Sun Yat-sen University, preparing to apply for PhD or RA positions in cosmology.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Current Work**
+
+Density fluctuations generated during cosmic inflation can exhibit non-Gaussianity, which is imprinted on the large-scale structure of the universe. The 21 cm neutral hydrogen line holds great promise for probing large-scale structure. I have developed a method that combines 21 cm HI intensity mapping with CMB observations to constrain local-type primordial non-Gaussianity. Detecting the 21 cm signal is challenging due to severe foreground contamination; to address this, we adopt a non-negativity constraint approach that enables the recovery of large-scale information from small-scale measurements. Our 21 cm HI intensity mapping forecasts are based on SKA observations, while the CMB data come from the Planck satellite. Our simulations show that over the redshift range $0.35 < z < 3$ with a survey area of $25{,}000\,\mathrm{deg}^2$, SKA MID Band 1 observations alone can constrain $f_\mathrm{NL}$ to $\sigma(f_\mathrm{NL}) \sim 2.6$. When combined with CMB data, the constraint improves to $\sigma(f_\mathrm{NL}) \sim 2.3$, representing a factor of $\sim 2.2$ improvement over CMB alone ($\sigma(f_\mathrm{NL}) = 5.1$). These results highlight the power of the non-negativity constraint in mitigating 21 cm foreground contamination and demonstrate that joint 21 cm + CMB analyses can substantially tighten constraints on primordial non-Gaussianity.
+
+**Research Interests**
+
+Large-scale structure formation and evolution, 21 cm neutral hydrogen surveys, cosmic microwave background, primordial non-Gaussianity, dark energy，etc.
