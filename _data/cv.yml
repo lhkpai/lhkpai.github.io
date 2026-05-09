@@ -66,8 +66,9 @@ cv:
           - Fisher forecasting
           - MCMC (emcee)
           - Foreground mitigation
-    High-performance computing:
-      - name: Linux cluster experience
+      - name: High-performance computing
+        keywords:
+          - Linux cluster experience
     Academic Activities:
       - bullet: 2nd SYSU-KIAS-YNU Symposium (May 2025)
     Awards:
