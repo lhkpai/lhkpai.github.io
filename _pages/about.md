@@ -93,4 +93,4 @@ Collected 5,000+ records of taxi supply-demand spatiotemporal data. Determined f
 - Third Prize, China Undergraduate Mathematical Contest in Modeling (Guangdong Division)
 - Silver Award, Guangdong "Chuang Qingchun·Challenge Cup" Entrepreneurship Competition
 - Winner, China-US Youth Entrepreneurship Competition (Shenzhen Division)
-- First Prize, Jinan University Entrepreneurship Competition for Students from Hong Kong, Macau, and Taiwan
+- First Prize, Jinan University Entrepreneurship Competition
