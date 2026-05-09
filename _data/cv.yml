@@ -14,7 +14,6 @@
         - Advisor: Prof. Xin Wang
     - title: B.S. in Electronic Information Science and Technology
       institution: Jinan University, School of Intelligent Science and Engineering
-      year: 2015 — 2020
 
 - title: Research Interests
   type: list
@@ -24,6 +23,14 @@
     - Cosmic microwave background
     - Primordial non-Gaussianity
     - Dark energy
+
+- title: Graduate Coursework
+  type: list
+  contents:
+    - Galaxy Cosmology, General Relativity, Galaxy Formation and Evolution
+    - Astrophysical Radiation Mechanisms, Radio Astronomy, Galaxy Physics
+    - Gravitational Wave Astronomy, Gravitational Wave Data Analysis
+    - Fundamental Astronomy, Foundations of Astronomy
 
 - title: Research Experience
   type: nested_list
@@ -50,14 +57,6 @@
       institution: Jinan University, Mathematical Modeling Group
       description:
         - Built a subsidy strategy model from 5,000+ spatiotemporal records using AHP and entropy method; implemented in MATLAB
-
-- title: Graduate Coursework
-  type: list
-  contents:
-    - Galaxy Cosmology, General Relativity, Galaxy Formation and Evolution
-    - Astrophysical Radiation Mechanisms, Radio Astronomy, Galaxy Physics
-    - Gravitational Wave Astronomy, Gravitational Wave Data Analysis
-    - Fundamental Astronomy, Foundations of Astronomy
 
 - title: Skills
   type: list
