@@ -1,78 +1,78 @@
-- title: General Information
-  type: list
-  contents:
-    - 'Sun Yat-sen University, Guangzhou, China'
-    - 'lhkpai@gmail.com'
-
-- title: Education
-  type: time_table
-  contents:
-    - title: M.S. in Cosmology
-      institution: Sun Yat-sen University, School of Physics and Astronomy
-      year: 2024 — 2027
-      description:
-        - Advisor: Prof. Xin Wang
-    - title: B.S. in Electronic Information Science and Technology
-      institution: Jinan University, School of Intelligent Science and Engineering
-
-- title: Research Interests
-  type: list
-  contents:
-    - Large-scale structure formation and evolution
-    - 21 cm neutral hydrogen surveys
-    - Cosmic microwave background
-    - Primordial non-Gaussianity
-    - Dark energy
-
-- title: Graduate Coursework
-  type: list
-  contents:
-    - Galaxy Cosmology, General Relativity, Galaxy Formation and Evolution
-    - Astrophysical Radiation Mechanisms, Radio Astronomy, Galaxy Physics
-    - Gravitational Wave Astronomy, Gravitational Wave Data Analysis
-    - Fundamental Astronomy, Foundations of Astronomy
-
-- title: Research Experience
-  type: nested_list
-  contents:
-    - title: Joint Constraints on Primordial Non-Gaussianity from 21 cm HI Intensity Mapping and CMB (Lead author, manuscript in preparation)
-      year: 2024 — present
-      description:
-        - Combines SKA MID Band 1 21 cm intensity mapping with Planck CMB data to constrain local-type primordial non-Gaussianity
-        - Employs a non-negativity constraint method to recover large-scale modes from small-scale measurements, addressing foreground contamination in 21 cm cosmology
-        - Forecasts show σ(f_NL) ∼ 2.3 from joint analysis, a factor of ∼2.2 improvement over CMB alone, over z=0.35–3 with 25,000 deg² sky coverage
-        - Theoretical foundation built on the scale-dependent bias effect of primordial non-Gaussianity on large-scale structure
-
-- title: Undergraduate Research
-  type: nested_list
-  contents:
-    - title: Dynamic Spectral Clustering Consensus Algorithm for Blockchain (B.S. Thesis)
-      description:
-        - Proposed an improved algorithm with spectral clustering for super-node selection and segregated witness for throughput; prototyped in MATLAB and Python
-    - title: Camera Noise Processing
-      description:
-        - Modeled noise generation in the imaging pipeline and calibrated dark and additive noise sources
-    - title: Taxi Resource Allocation Model
-      description:
-        - Built a subsidy strategy model from 5,000+ spatiotemporal records using AHP and entropy method; implemented in MATLAB
-
-- title: Skills
-  type: list
-  contents:
-    - 'Programming: Python (scientific computing), MATLAB'
-    - 'Cosmological codes: CLASS, CAMB'
-    - 'Data analysis: Fisher forecasting, MCMC (emcee), foreground mitigation'
-    - 'High-performance computing: Linux cluster experience'
-
-- title: Academic Activities
-  type: list
-  contents:
-    - 2nd SYSU-KIAS-YNU Symposium (May 2025)
-
-- title: Awards
-  type: list
-  contents:
-    - Third Prize, China Undergraduate Mathematical Contest in Modeling (Guangdong Division)
-    - Silver Award, Guangdong "Chuang Qingchun·Challenge Cup" Entrepreneurship Competition
-    - Winner, China-US Youth Entrepreneurship Competition (Shenzhen Division)
-    - First Prize, Jinan University Entrepreneurship Competition
+cv:
+  name: Haikun Liu
+  label: M.S. Student in Cosmology
+  email: lhkpai@gmail.com
+  location: Sun Yat-sen University, Guangzhou, China
+  summary: I am seeking a PhD position in cosmology starting Fall 2027, and am also open to in-person or remote RA opportunities.
+  sections:
+    Education:
+      - institution: Sun Yat-sen University, School of Physics and Astronomy
+        studyType: M.S. in Physics
+        start_date: 2024
+        end_date: 2027
+        highlights:
+          - Advisor: Prof. Xin Wang
+      - institution: Jinan University, School of Intelligent Science and Engineering
+        studyType: B.S. in Electronic Information Science and Technology
+        start_date: 2015
+        end_date: 2020
+    Interests:
+      - name: Research Interests
+        keywords:
+          - Large-scale structure formation and evolution
+          - 21 cm neutral hydrogen surveys
+          - Cosmic microwave background
+          - Primordial non-Gaussianity
+          - Dark energy
+    Experience:
+      - position: Lead author (manuscript in preparation)
+        organization: Sun Yat-sen University
+        start_date: 2024
+        end_date: Present
+        summary: Joint Constraints on Primordial Non-Gaussianity from 21 cm HI Intensity Mapping and CMB
+        highlights:
+          - Combines SKA MID Band 1 21 cm intensity mapping with Planck CMB data to constrain local-type primordial non-Gaussianity
+          - Employs a non-negativity constraint method to recover large-scale modes from small-scale measurements, addressing the foreground contamination challenge in 21 cm cosmology
+          - Forecasts show σ(f_NL) ∼ 2.3 from joint analysis, a factor of ∼2.2 improvement over CMB alone (σ(f_NL) = 5.1), over z=0.35–3 with 25,000 deg² sky coverage
+          - Theoretical foundation built on the scale-dependent bias effect of primordial non-Gaussianity on large-scale structure
+    Projects:
+      - name: Dynamic Spectral Clustering Consensus Algorithm for Blockchain (B.S. Thesis)
+        highlights:
+          - Proposed an improved algorithm with spectral clustering for super-node selection and segregated witness for throughput; prototyped in MATLAB and Python
+      - name: Camera Noise Processing
+        summary: Jinan University, Elite Engineer Training Program
+        highlights:
+          - Modeled noise generation in the imaging pipeline and calibrated dark and additive noise sources
+      - name: Taxi Resource Allocation Model
+        summary: Jinan University, Mathematical Modeling Group
+        highlights:
+          - Built a subsidy strategy model from 5,000+ spatiotemporal records using AHP and entropy method; implemented in MATLAB
+    Coursework:
+      - bullet: Galaxy Cosmology, General Relativity, Galaxy Formation and Evolution
+      - bullet: Astrophysical Radiation Mechanisms, Radio Astronomy, Galaxy Physics
+      - bullet: Gravitational Wave Astronomy, Gravitational Wave Data Analysis
+      - bullet: Fundamental Astronomy, Foundations of Astronomy
+    Skills:
+      - name: Programming
+        keywords:
+          - Python (scientific computing)
+          - MATLAB
+      - name: Cosmological codes
+        keywords:
+          - CLASS
+          - CAMB
+      - name: Data analysis
+        keywords:
+          - Fisher forecasting
+          - MCMC (emcee)
+          - Foreground mitigation
+      - name: High-performance computing
+        keywords:
+          - Linux cluster experience
+    Academic Activities:
+      - bullet: 2nd SYSU-KIAS-YNU Symposium (May 2025)
+    Awards:
+      - title: Third Prize, China Undergraduate Mathematical Contest in Modeling (Guangdong Division)
+      - title: Silver Award, Guangdong "Chuang Qingchun·Challenge Cup" Entrepreneurship Competition
+      - title: Winner, China-US Youth Entrepreneurship Competition (Shenzhen Division)
+      - title: First Prize, Jinan University Entrepreneurship Competition
