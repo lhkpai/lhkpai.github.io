@@ -2,17 +2,17 @@ cv:
   name: Haikun Liu
   label: M.S. Student in Cosmology
   email: lhkpai@gmail.com
-  location: Sun Yat-sen University, Guangzhou, China
+  location: Sun Yat-sen University, Guangdong Province, China
   summary: I am seeking a PhD position in cosmology starting Fall 2027, and am also open to in-person or remote RA opportunities.
   sections:
     Education:
       - institution: Sun Yat-sen University, School of Physics and Astronomy
-        studyType: M.S. in Physics
+        studyType: M.S. in Astrophysics
         start_date: 2024
         end_date: 2027
         highlights:
           - Advisor: Prof. Xin Wang
-      - institution: Jinan University, School of Intelligent Science and Engineering
+      - institution: Jinan University, School of Intelligent Science and Engineering, Guangdong Province, China
         studyType: B.S. in Electronic Information Science and Technology
         start_date: 2015
         end_date: 2020
