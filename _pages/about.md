@@ -17,7 +17,7 @@ selected_papers: false
 social: false
 ---
 
-I am seeking a PhD position in cosmology starting Fall 2027, and am also open to in-person or remote RA opportunities. If interested, please contact me at lhkpai@gmail.com.
+**I am seeking a PhD position in cosmology starting Fall 2027, and am also open to in-person or remote RA opportunities. If interested, please contact me at lhkpai@gmail.com.** 
 
 ---
 
@@ -32,7 +32,7 @@ Advisor: Prof. Xin Wang
 
 ## Graduate Coursework
 
-Galaxy Cosmology, General Relativity, Galaxy Formation and Evolution, Astrophysical Radiation Mechanisms, Radio Astronomy, Galaxy Physics, Gravitational Wave Astronomy, Gravitational Wave Data Analysis, Fundamental Astronomy, Foundations of Astronomy
+Galaxy Cosmology, General Relativity, Galaxy Formation and Evolution, Astrophysical Radiation Mechanisms, Radio Astronomy, Galaxy Physics, Gravitational Wave Astronomy, Gravitational Wave Data Analysis, Fundamental Astronomy, Foundations of Astronomy, etc.
 
 ---
 
