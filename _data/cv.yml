@@ -48,10 +48,12 @@ cv:
         highlights:
           - Built a subsidy strategy model from 5,000+ spatiotemporal records using AHP and entropy method; implemented in MATLAB
     Coursework:
-      - bullet: Galaxy Cosmology, General Relativity, Galaxy Formation and Evolution
-      - bullet: Astrophysical Radiation Mechanisms, Radio Astronomy, Galaxy Physics
-      - bullet: Gravitational Wave Astronomy, Gravitational Wave Data Analysis
-      - bullet: Fundamental Astronomy, Foundations of Astronomy
+      - name: Coursework
+        highlights:
+          - Galaxy Cosmology, General Relativity, Galaxy Formation and Evolution
+          - Astrophysical Radiation Mechanisms, Radio Astronomy, Galaxy Physics
+          - Gravitational Wave Astronomy, Gravitational Wave Data Analysis
+          - Fundamental Astronomy, Foundations of Astronomy
     Skills:
       - name: Programming
         keywords:
@@ -70,9 +72,11 @@ cv:
         keywords:
           - Linux cluster experience
     Academic Activities:
-      - bullet: 2nd SYSU-KIAS-YNU Symposium (May 2025)
+      - name: Academic Activities
+        highlights:
+          - 2nd SYSU-KIAS-YNU Symposium (May 2025)
     Awards:
-      - title: Third Prize, China Undergraduate Mathematical Contest in Modeling (Guangdong Division)
-      - title: Silver Award, Guangdong "Chuang Qingchun·Challenge Cup" Entrepreneurship Competition
-      - title: Winner, China-US Youth Entrepreneurship Competition (Shenzhen Division)
-      - title: First Prize, Jinan University Entrepreneurship Competition
+      - name: Third Prize, China Undergraduate Mathematical Contest in Modeling (Guangdong Division)
+      - name: Silver Award, Guangdong "Chuang Qingchun·Challenge Cup" Entrepreneurship Competition
+      - name: Winner, China-US Youth Entrepreneurship Competition (Shenzhen Division)
+      - name: First Prize, Jinan University Entrepreneurship Competition
