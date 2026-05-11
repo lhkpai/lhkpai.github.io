@@ -12,6 +12,11 @@ cv:
         end_date: 2027
         highlights:
           - Advisor: Prof. Xin Wang
+        courses:
+          - Galaxy Cosmology, General Relativity, Galaxy Formation and Evolution
+          - Astrophysical Radiation Mechanisms, Radio Astronomy, Galaxy Physics
+          - Gravitational Wave Astronomy, Gravitational Wave Data Analysis
+          - Fundamental Astronomy, Foundations of Astronomy
       - institution: Jinan University, School of Intelligent Science and Engineering, Guangdong Province, China
         studyType: B.S. in Electronic Information Science and Technology
         start_date: 2015
@@ -35,6 +40,11 @@ cv:
           - Employs a non-negativity constraint method to recover large-scale modes from small-scale measurements, addressing the foreground contamination challenge in 21 cm cosmology
           - Forecasts show σ(f_NL) ∼ 2.3 from joint analysis, a factor of ∼2.2 improvement over CMB alone (σ(f_NL) = 5.1), over z=0.35–3 with 25,000 deg² sky coverage
           - Theoretical foundation built on the scale-dependent bias effect of primordial non-Gaussianity on large-scale structure
+      - position: Participant
+        organization: 2nd SYSU-KIAS-YNU Symposium
+        start_date: 2025
+        end_date: 2025
+        summary: Attended the symposium held in May 2025.
     Projects:
       - name: Dynamic Spectral Clustering Consensus Algorithm for Blockchain (B.S. Thesis)
         highlights:
@@ -47,13 +57,6 @@ cv:
         summary: Jinan University, Mathematical Modeling Group
         highlights:
           - Built a subsidy strategy model from 5,000+ spatiotemporal records using AHP and entropy method; implemented in MATLAB
-    Coursework:
-      - name: Coursework
-        highlights:
-          - Galaxy Cosmology, General Relativity, Galaxy Formation and Evolution
-          - Astrophysical Radiation Mechanisms, Radio Astronomy, Galaxy Physics
-          - Gravitational Wave Astronomy, Gravitational Wave Data Analysis
-          - Fundamental Astronomy, Foundations of Astronomy
     Skills:
       - name: Programming
         keywords:
@@ -71,12 +74,8 @@ cv:
       - name: High-performance computing
         keywords:
           - Linux cluster experience
-    Academic Activities:
-      - name: Academic Activities
-        highlights:
-          - 2nd SYSU-KIAS-YNU Symposium (May 2025)
     Awards:
-      - name: Third Prize, China Undergraduate Mathematical Contest in Modeling (Guangdong Division)
-      - name: Silver Award, Guangdong "Chuang Qingchun·Challenge Cup" Entrepreneurship Competition
-      - name: Winner, China-US Youth Entrepreneurship Competition (Shenzhen Division)
-      - name: First Prize, Jinan University Entrepreneurship Competition
+      - title: Third Prize, China Undergraduate Mathematical Contest in Modeling (Guangdong Division)
+      - title: Silver Award, Guangdong "Chuang Qingchun·Challenge Cup" Entrepreneurship Competition
+      - title: Winner, China-US Youth Entrepreneurship Competition (Shenzhen Division)
+      - title: First Prize, Jinan University Entrepreneurship Competition
